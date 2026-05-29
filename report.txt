@@ -1,0 +1,9 @@
+Nmap scan Report
+Target:127.0.0.1
+Date:29-05-2026
+
+Open Ports:
+135/TCP-open-msrpc
+445/TCP-open-microsoft-ds
+
+Nmap done in 0.54 seconds
